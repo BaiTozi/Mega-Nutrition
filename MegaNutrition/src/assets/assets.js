@@ -14,6 +14,7 @@ import remove_icon_red from './remove_icon_red.png';
 import search_icon from './search_icon.png';
 import selector_icon from './selector_icon.png';
 import twitter_icon from './twitter_icon.png';
+import header from './header.png';
 
 
 export const assets = {
@@ -33,4 +34,6 @@ export const assets = {
     search_icon,
     selector_icon,
     twitter_icon,
+    header,
+
 }
