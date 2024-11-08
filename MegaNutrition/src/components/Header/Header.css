@@ -6,6 +6,7 @@
     background-position: center;
     position: relative;
     border-radius: 20px;
+    
 }
 
 .header-contents {
@@ -41,3 +42,4 @@
     font-size: max(1vw,13px);
     border-radius: 50px;
 }
+

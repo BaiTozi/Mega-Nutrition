@@ -15,6 +15,12 @@ import search_icon from './search_icon.png';
 import selector_icon from './selector_icon.png';
 import twitter_icon from './twitter_icon.png';
 import header from './header.png';
+import protein_powder from './protein_powder.png';
+import creatin from './creatin.png';
+import l_arginine from './l_arginine.png';
+import citrulin_malate from './citrulin_malate.png';
+import trbulus from './tribulus.png';
+import pre_workout from './pre_workout.png';
 
 
 export const assets = {
@@ -35,5 +41,37 @@ export const assets = {
     selector_icon,
     twitter_icon,
     header,
-
+    protein_powder,
+    creatin,
+    l_arginine,
+    citrulin_malate,
+    trbulus,
+    pre_workout,
 }
+
+export const supplements_list = [
+    {
+        sup_name: "protein",
+        sup_image: protein_powder
+    },
+    {
+        sup_name: "creatin",
+        sup_image: creatin
+    },
+    {
+        sup_name: "l_arginine",
+        sup_image: l_arginine
+    },
+    {
+        sup_name: "citrulin_malate",
+        sup_image: citrulin_malate
+    },
+    {
+        sup_name: "trbulus",
+        sup_image: trbulus
+    },
+    {
+        sup_name: "pre_workout",
+        sup_image: pre_workout
+    },
+]
