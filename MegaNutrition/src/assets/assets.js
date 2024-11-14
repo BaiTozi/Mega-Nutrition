@@ -51,27 +51,27 @@ export const assets = {
 
 export const supplements_list = [
     {
-        sup_name: "protein",
+        sup_name: "Protein",
         sup_image: protein_powder
     },
     {
-        sup_name: "creatin",
+        sup_name: "Creatin",
         sup_image: creatin
     },
     {
-        sup_name: "l_arginine",
+        sup_name: "L arginine",
         sup_image: l_arginine
     },
     {
-        sup_name: "citrulin_malate",
+        sup_name: "Citrulin malate",
         sup_image: citrulin_malate
     },
     {
-        sup_name: "trbulus",
+        sup_name: "Tribulus",
         sup_image: trbulus
     },
     {
-        sup_name: "pre_workout",
+        sup_name: "Pre workout",
         sup_image: pre_workout
     },
 ]
