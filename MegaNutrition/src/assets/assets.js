@@ -23,6 +23,7 @@ import trbulus from './tribulus.png';
 import pre_workout from './pre_workout.png';
 
 
+
 export const assets = {
     logo,
     add_icon_green,
@@ -73,5 +74,15 @@ export const supplements_list = [
     {
         sup_name: "Pre workout",
         sup_image: pre_workout
+    },
+]
+
+export const sup_list = [
+    {
+        _id1: "1",
+        name: facebook_icon,
+        price: 89,
+        description: "This food supplement provides essential nutrient for overall health and well-being.",
+        category: "Protein"
     },
 ]
