@@ -21,7 +21,9 @@ import l_arginine from './l_arginine.png';
 import citrulin_malate from './citrulin_malate.png';
 import trbulus from './tribulus.png';
 import pre_workout from './pre_workout.png';
-
+import protein1 from './protein1.png'
+import protein2 from './protein2.png'
+import protein3 from './protein3.png'
 
 
 export const assets = {
@@ -80,9 +82,29 @@ export const supplements_list = [
 export const sup_list = [
     {
         _id1: "1",
-        name: facebook_icon,
+        name: "Protein",
+        image: protein1,
         price: 89,
         description: "This food supplement provides essential nutrient for overall health and well-being.",
         category: "Protein"
     },
+    {
+        _id2: "2",
+        name: "Protein",
+        image: protein2,
+        price: 76,
+        description: "This food supplement provides essential nutrient for overall health and well-being.",
+        category: "Protein"
+    },
+    {
+        _id3: "3",
+        name: "Protein",
+        image: protein3,
+        price: 76,
+        description: "This food supplement provides essential nutrient for overall health and well-being.",
+        category: "Protein"
+    }
+
+   
+
 ]
