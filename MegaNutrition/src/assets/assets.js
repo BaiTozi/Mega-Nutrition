@@ -81,7 +81,7 @@ export const supplements_list = [
 
 export const sup_list = [
     {
-        _id1: "1",
+        _id: "1",
         name: "Protein",
         image: protein1,
         price: 89,
@@ -89,7 +89,7 @@ export const sup_list = [
         category: "Protein"
     },
     {
-        _id2: "2",
+        _id: "2",
         name: "Protein",
         image: protein2,
         price: 76,
@@ -97,7 +97,7 @@ export const sup_list = [
         category: "Protein"
     },
     {
-        _id3: "3",
+        _id: "3",
         name: "Protein",
         image: protein3,
         price: 76,
